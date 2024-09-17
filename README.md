@@ -13,7 +13,7 @@ This project demonstrates a React component that uses MapLibre GL JS to display 
 
 1. Clone this repository:
    ```
-   git clone https://github.com/your-username/your-repo-name.git
+   git clone https://github.com/ErinBaker/maplibre-utf-8-labels.git
    cd your-repo-name
    ```
 
