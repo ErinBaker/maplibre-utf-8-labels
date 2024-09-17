@@ -1,0 +1,2106 @@
+{
+  "type": "FeatureCollection",
+  "name": "source",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "latitude": "-60",
+        "longitude": "-160",
+        "mango": "FALSE",
+        "maplibre": "FALSE",
+        "maptiler": "FALSE",
+        "direction": "LTR",
+        "language": "Gothic",
+        "sentence": "𐌼𐌰𐌲 𐌲𐌻𐌴𐍃 𐌹̈𐍄𐌰𐌽"
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "latitude": "-46.7",
+        "longitude": "-160",
+        "mango": "FALSE",
+        "maplibre": "FALSE",
+        "maptiler": "FALSE",
+        "direction": "LTR",
+        "language": "Old Norse Runes",
+        "sentence": "ᛖᚴ ᚷᛖᛏ ᛖᛏᛁ ᚧ ᚷᛚᛖᚱ ᛘᚾ ᚦᛖᛋᛋ ᚨᚧ ᚡᛖ ᚱᚧᚨ ᛋᚨᚱ"
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "latitude": "20",
+        "longitude": "-160",
+        "mango": "FALSE",
+        "maplibre": "FALSE",
+        "maptiler": "FALSE",
+        "direction": "LTR",
+        "language": "AngloSaxon Runes",
+        "sentence": "ᛁᚳ᛫ᛗᚨᚷ᛫ᚷᛚᚨᛋ᛫ᛖᚩᛏᚪᚾ᛫ᚩᚾᛞ᛫ᚻᛁᛏ᛫ᚾᛖ᛫ᚻᛖᚪᚱᛗᛁᚪᚧ᛫ᛗᛖ᛬"
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "latitude": "-6.7",
+        "longitude": "-160",
+        "mango": "TRUE",
+        "maplibre": "FALSE",
+        "maptiler": "FALSE",
+        "direction": "LTR",
+        "language": "English Braille",
+        "sentence": "⠊⠀⠉⠁⠝⠀⠑⠁⠞⠀⠛⠇⠁⠎⠎⠀⠁⠝⠙⠀⠊⠞⠀⠙⠕⠑⠎⠝⠞⠀⠓⠥⠗⠞⠀⠍⠑"
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "latitude": "6.7",
+        "longitude": "-160",
+        "mango": "FALSE",
+        "maplibre": "FALSE",
+        "maptiler": "FALSE",
+        "direction": "LTR",
+        "language": "Telugu",
+        "sentence": "నేను గాజు తినగలను మరియు అలా చేసినా నాకు ఏమి ఇబ్బంది లేదు"
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "latitude": "46.7",
+        "longitude": "-160",
+        "mango": "TRUE",
+        "maplibre": "FALSE",
+        "maptiler": "FALSE",
+        "direction": "LTR",
+        "language": "Inuktitut",
+        "sentence": "ᐊᓕᒍᖅ ᓂᕆᔭᕌᖓᒃᑯ ᓱᕋᙱᑦᑐᓐᓇᖅᑐᖓ"
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "latitude": "60",
+        "longitude": "-160",
+        "mango": "TRUE",
+        "maplibre": "TRUE",
+        "maptiler": "FALSE",
+        "direction": "LTR",
+        "language": "Old Irish Ogham",
+        "sentence": "᚛᚛ᚉᚑᚅᚔᚉᚉᚔᚋ ᚔᚈᚔ ᚍᚂᚐᚅᚑ ᚅᚔᚋᚌᚓᚅᚐ᚜"
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "latitude": "-33.3",
+        "longitude": "-160",
+        "mango": "FALSE",
+        "maplibre": "FALSE",
+        "maptiler": "TRUE",
+        "direction": "RTL",
+        "language": "Urdu",
+        "sentence": "میں کانچ کھا سکتا ہوں اور مجھے تکلیف نہیں ہوتی ۔"
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "latitude": "33.3",
+        "longitude": "-160",
+        "mango": "FALSE",
+        "maplibre": "FALSE",
+        "maptiler": "TRUE",
+        "direction": "LTR",
+        "language": "Burmese",
+        "sentence": "ငါဖန်ခွက်ကိုစားလို့ရတယ်၊ အဲဒါကငါ့ကိုမထိခိုက်ဘူး"
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "latitude": "-20",
+        "longitude": "-160",
+        "mango": "FALSE",
+        "maplibre": "FALSE",
+        "maptiler": "TRUE",
+        "direction": "LTR",
+        "language": "Sinhalese",
+        "sentence": "මට වීදුරු කෑමට හැකියි"
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "latitude": "46.7",
+        "longitude": "-137.1",
+        "mango": "FALSE",
+        "maplibre": "FALSE",
+        "maptiler": "TRUE",
+        "direction": "LTR",
+        "language": "Kannada",
+        "sentence": "ನನಗೆ ಹಾನಿ ಆಗದೆ ನಾನು ಗಜನ್ನು ತಿನಬಹುದು"
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "latitude": "-60",
+        "longitude": "-137.1",
+        "mango": "TRUE",
+        "maplibre": "FALSE",
+        "maptiler": "TRUE",
+        "direction": "LTR",
+        "language": "Georgian",
+        "sentence": "მინას ვჭამ და არა მტკივა"
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "latitude": "-20",
+        "longitude": "-137.1",
+        "mango": "TRUE",
+        "maplibre": "FALSE",
+        "maptiler": "TRUE",
+        "direction": "RTL",
+        "language": "Hausa Ajami",
+        "sentence": "إِنا إِىَ تَونَر غِلَاشِ كُمَ إِن غَمَا لَافِىَا"
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "latitude": "20",
+        "longitude": "-137.1",
+        "mango": "FALSE",
+        "maplibre": "FALSE",
+        "maptiler": "TRUE",
+        "direction": "LTR",
+        "language": "Bangla  Bengali",
+        "sentence": "আমি কাঁচ খেতে পারি তাতে আমার কোনো ক্ষতি হয় না।"
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "latitude": "60",
+        "longitude": "-137.1",
+        "mango": "FALSE",
+        "maplibre": "FALSE",
+        "maptiler": "TRUE",
+        "direction": "LTR",
+        "language": "Marathi",
+        "sentence": "मी काच खाऊ शकतो मला ते दुखत नाही"
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "latitude": "-46.7",
+        "longitude": "-137.1",
+        "mango": "FALSE",
+        "maplibre": "FALSE",
+        "maptiler": "TRUE",
+        "direction": "LTR",
+        "language": "Mongolian Classic",
+        "sentence": "ᠪᠢ ᠰᠢᠯᠢ ᠢᠳᠡᠶᠦ ᠴᠢᠳᠠᠨᠠ ᠂ ᠨᠠᠳᠤᠷ ᠬᠣᠤᠷᠠᠳᠠᠢ ᠪᠢᠰᠢ"
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "latitude": "-33.3",
+        "longitude": "-137.1",
+        "mango": "FALSE",
+        "maplibre": "FALSE",
+        "maptiler": "TRUE",
+        "direction": "LTR",
+        "language": "Nepali",
+        "sentence": "म काँच खान सक्छू र मलाई केहि नी हुन्‍न् ।"
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "latitude": "-6.7",
+        "longitude": "-137.1",
+        "mango": "TRUE",
+        "maplibre": "FALSE",
+        "maptiler": "TRUE",
+        "direction": "LTR",
+        "language": "Lao",
+        "sentence": "ຂອ້ຍກິນແກ້ວໄດ້ໂດຍທີ່ມັນບໍ່ໄດ້ເຮັດໃຫ້ຂອ້ຍເຈັບ"
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "latitude": "6.7",
+        "longitude": "-137.1",
+        "mango": "TRUE",
+        "maplibre": "FALSE",
+        "maptiler": "TRUE",
+        "direction": "RTL",
+        "language": "Hebrew",
+        "sentence": "אני יכול לאכול זכוכית וזה לא מזיק לי"
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "latitude": "33.3",
+        "longitude": "-137.1",
+        "mango": "TRUE",
+        "maplibre": "FALSE",
+        "maptiler": "TRUE",
+        "direction": "RTL",
+        "language": "Arabic",
+        "sentence": "أنا قادر على أكل الزجاج و هذا لا يؤلمني."
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "latitude": "6.7",
+        "longitude": "-114.3",
+        "mango": "TRUE",
+        "maplibre": "FALSE",
+        "maptiler": "TRUE",
+        "direction": "LTR",
+        "language": "Hindi",
+        "sentence": "मैं काँच खा सकता हूँ और मुझे उससे कोई चोट नहीं पहुंचती"
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "latitude": "-46.7",
+        "longitude": "-114.3",
+        "mango": "TRUE",
+        "maplibre": "FALSE",
+        "maptiler": "TRUE",
+        "direction": "RTL",
+        "language": "Turkish Ottoman",
+        "sentence": "جام ييه بلورم بڭا ضررى طوقونمز"
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "latitude": "-33.3",
+        "longitude": "-114.3",
+        "mango": "FALSE",
+        "maplibre": "FALSE",
+        "maptiler": "TRUE",
+        "direction": "LTR",
+        "language": "Sanskrit",
+        "sentence": "काचं शक्नोम्यत्तुम् । नोपहिनस्ति माम् ॥"
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "latitude": "-6.7",
+        "longitude": "-114.3",
+        "mango": "FALSE",
+        "maplibre": "FALSE",
+        "maptiler": "TRUE",
+        "direction": "LTR",
+        "language": "Tamil",
+        "sentence": "நான் கண்ணாடி சாப்பிடுவேன் அதனால் எனக்கு ஒரு கேடும் வராது"
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "latitude": "20",
+        "longitude": "-114.3",
+        "mango": "FALSE",
+        "maplibre": "FALSE",
+        "maptiler": "TRUE",
+        "direction": "LTR",
+        "language": "Thai",
+        "sentence": "ฉันกินกระจกได้ แต่มันไม่ทำให้ฉันเจ็บ"
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "latitude": "33.3",
+        "longitude": "-114.3",
+        "mango": "FALSE",
+        "maplibre": "FALSE",
+        "maptiler": "TRUE",
+        "direction": "LTR",
+        "language": "Tibetan",
+        "sentence": "ཤེལ་སྒོ་ཟ་ནས་ང་ན་གི་མ་རེད།"
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "latitude": "-60",
+        "longitude": "-114.3",
+        "mango": "TRUE",
+        "maplibre": "FALSE",
+        "maptiler": "TRUE",
+        "direction": "LTR",
+        "language": "Farsi  Persian",
+        "sentence": ".من می توانم بدونِ احساس درد شيشه بخورم"
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "latitude": "-20",
+        "longitude": "-114.3",
+        "mango": "TRUE",
+        "maplibre": "FALSE",
+        "maptiler": "TRUE",
+        "direction": "RTL",
+        "language": "Pashto",
+        "sentence": "زه شيشه خوړلې شم، هغه ما نه خوږوي"
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "latitude": "46.7",
+        "longitude": "-114.3",
+        "mango": "TRUE",
+        "maplibre": "TRUE",
+        "maptiler": "TRUE",
+        "direction": "LTR",
+        "language": "Old Norse Latin",
+        "sentence": "Ek get etið gler án þess að verða sár"
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "latitude": "60",
+        "longitude": "-114.3",
+        "mango": "TRUE",
+        "maplibre": "TRUE",
+        "maptiler": "TRUE",
+        "direction": "LTR",
+        "language": "Bayrisch  Bavarian",
+        "sentence": "I koh Glos esa und es duard ma ned wei"
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "latitude": "20",
+        "longitude": "-91.4",
+        "mango": "FALSE",
+        "maplibre": "TRUE",
+        "maptiler": "TRUE",
+        "direction": "LTR",
+        "language": "Chinese Traditional",
+        "sentence": "我能吞下玻璃而不傷身體。"
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "latitude": "-60",
+        "longitude": "-91.4",
+        "mango": "TRUE",
+        "maplibre": "TRUE",
+        "maptiler": "TRUE",
+        "direction": "LTR",
+        "language": "Dansk  Danish",
+        "sentence": "Jeg kan spise glas det gør ikke ondt på mig"
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "latitude": "-46.7",
+        "longitude": "-91.4",
+        "mango": "TRUE",
+        "maplibre": "TRUE",
+        "maptiler": "TRUE",
+        "direction": "LTR",
+        "language": "Norsk  Norwegian Nynorsk",
+        "sentence": "Eg kan eta glas utan å skada meg  “Ø”, “Æ” and “Å”."
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "latitude": "-33.3",
+        "longitude": "-91.4",
+        "mango": "TRUE",
+        "maplibre": "TRUE",
+        "maptiler": "TRUE",
+        "direction": "LTR",
+        "language": "Maltese",
+        "sentence": "Nista' niekol ilħġieġ u ma jagħmilli xejn"
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "latitude": "-20",
+        "longitude": "-91.4",
+        "mango": "TRUE",
+        "maplibre": "TRUE",
+        "maptiler": "TRUE",
+        "direction": "LTR",
+        "language": "Zeneise Genovese",
+        "sentence": "Pòsso mangiâ o veddro e o no me fà mâ"
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "latitude": "-6.7",
+        "longitude": "-91.4",
+        "mango": "TRUE",
+        "maplibre": "TRUE",
+        "maptiler": "TRUE",
+        "direction": "LTR",
+        "language": "Sami Northern",
+        "sentence": "Sáhtán borrat lása dat ii leat bávččas"
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "latitude": "6.7",
+        "longitude": "-91.4",
+        "mango": "TRUE",
+        "maplibre": "TRUE",
+        "maptiler": "TRUE",
+        "direction": "LTR",
+        "language": "Tagalog",
+        "sentence": "Kaya kong kumain nang bubog at hindi ako masaktan"
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "latitude": "33.3",
+        "longitude": "-91.4",
+        "mango": "TRUE",
+        "maplibre": "TRUE",
+        "maptiler": "TRUE",
+        "direction": "LTR",
+        "language": "Belarusian Cyrillic",
+        "sentence": "Я магу есці шкло яно мне не шкодзіць"
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "latitude": "46.7",
+        "longitude": "-91.4",
+        "mango": "TRUE",
+        "maplibre": "TRUE",
+        "maptiler": "TRUE",
+        "direction": "LTR",
+        "language": "Deutsch Voralberg",
+        "sentence": "I ka glas eassa ohne dass mar weh tuat"
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "latitude": "60",
+        "longitude": "-91.4",
+        "mango": "TRUE",
+        "maplibre": "TRUE",
+        "maptiler": "TRUE",
+        "direction": "LTR",
+        "language": "Greek monotonic",
+        "sentence": "Μπορώ να φάω σπασμένα γυαλιά χωρίς να πάθω τίποτα"
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "latitude": "6.7",
+        "longitude": "-68.6",
+        "mango": "FALSE",
+        "maplibre": "TRUE",
+        "maptiler": "TRUE",
+        "direction": "LTR",
+        "language": "Chinese",
+        "sentence": "我能吞下玻璃而不伤身体。"
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "latitude": "-60",
+        "longitude": "-68.6",
+        "mango": "TRUE",
+        "maplibre": "TRUE",
+        "maptiler": "TRUE",
+        "direction": "LTR",
+        "language": "KirchroadsjBochesserplat",
+        "sentence": "Iech ken glaas èèse mer 't deet miech jing pieng"
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "latitude": "-46.7",
+        "longitude": "-68.6",
+        "mango": "TRUE",
+        "maplibre": "TRUE",
+        "maptiler": "TRUE",
+        "direction": "LTR",
+        "language": "Manx Gaelic",
+        "sentence": "Foddym gee glonney agh cha jean eh gortaghey mee"
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "latitude": "-33.3",
+        "longitude": "-68.6",
+        "mango": "TRUE",
+        "maplibre": "TRUE",
+        "maptiler": "TRUE",
+        "direction": "LTR",
+        "language": "Yoruba",
+        "sentence": "Mo lè je̩ dígí kò ní pa mí lára"
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "latitude": "-20",
+        "longitude": "-68.6",
+        "mango": "TRUE",
+        "maplibre": "TRUE",
+        "maptiler": "TRUE",
+        "direction": "LTR",
+        "language": "Jamaican",
+        "sentence": "Mi kian niam glas han i neba hot mi"
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "latitude": "-6.7",
+        "longitude": "-68.6",
+        "mango": "TRUE",
+        "maplibre": "TRUE",
+        "maptiler": "TRUE",
+        "direction": "LTR",
+        "language": "Taiwanese",
+        "sentence": "Góa ētàng chia̍h polê mā bē tio̍hsiong"
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "latitude": "20",
+        "longitude": "-68.6",
+        "mango": "TRUE",
+        "maplibre": "TRUE",
+        "maptiler": "TRUE",
+        "direction": "LTR",
+        "language": "Belarusian Lacinka",
+        "sentence": "Ja mahu jeści škło jano mne ne škodzić"
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "latitude": "33.3",
+        "longitude": "-68.6",
+        "mango": "TRUE",
+        "maplibre": "TRUE",
+        "maptiler": "TRUE",
+        "direction": "LTR",
+        "language": "Deutsch  German",
+        "sentence": "Ich kann Glas essen ohne mir zu schaden"
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "latitude": "46.7",
+        "longitude": "-68.6",
+        "mango": "TRUE",
+        "maplibre": "TRUE",
+        "maptiler": "TRUE",
+        "direction": "LTR",
+        "language": "Greek polytonic",
+        "sentence": "Μπορῶ νὰ φάω σπασμένα γυαλιὰ χωρὶς νὰ πάθω τίποτα"
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "latitude": "60",
+        "longitude": "-68.6",
+        "mango": "TRUE",
+        "maplibre": "TRUE",
+        "maptiler": "TRUE",
+        "direction": "LTR",
+        "language": "Kreyol Ayisyen Haiti",
+        "sentence": "Mwen kap manje vè li pa blese'm"
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "latitude": "-60",
+        "longitude": "-45.7",
+        "mango": "TRUE",
+        "maplibre": "TRUE",
+        "maptiler": "TRUE",
+        "direction": "LTR",
+        "language": "Marquesan",
+        "sentence": "E koʻana e kai i te karahi mea ʻā ʻaʻe hauhau"
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "latitude": "-46.7",
+        "longitude": "-45.7",
+        "mango": "TRUE",
+        "maplibre": "TRUE",
+        "maptiler": "TRUE",
+        "direction": "LTR",
+        "language": "Papiamentu",
+        "sentence": "Ami por kome glas anto e no ta hasimi daño"
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "latitude": "-33.3",
+        "longitude": "-45.7",
+        "mango": "TRUE",
+        "maplibre": "TRUE",
+        "maptiler": "TRUE",
+        "direction": "LTR",
+        "language": "Norsk  Norwegian Bokmal",
+        "sentence": "Jeg kan spise glass uten å skade meg  “Ø”, “Æ” and “Å”."
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "latitude": "-20",
+        "longitude": "-45.7",
+        "mango": "TRUE",
+        "maplibre": "TRUE",
+        "maptiler": "TRUE",
+        "direction": "LTR",
+        "language": "Turkish",
+        "sentence": "Cam yiyebilirim bana zararı dokunmaz"
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "latitude": "-6.7",
+        "longitude": "-45.7",
+        "mango": "TRUE",
+        "maplibre": "TRUE",
+        "maptiler": "TRUE",
+        "direction": "LTR",
+        "language": "Bislama",
+        "sentence": "Mi save kakae glas hemi no save katem mi"
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "latitude": "6.7",
+        "longitude": "-45.7",
+        "mango": "TRUE",
+        "maplibre": "TRUE",
+        "maptiler": "TRUE",
+        "direction": "LTR",
+        "language": "English",
+        "sentence": "I can eat glass and it doesn't hurt me"
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "latitude": "20",
+        "longitude": "-45.7",
+        "mango": "TRUE",
+        "maplibre": "TRUE",
+        "maptiler": "TRUE",
+        "direction": "LTR",
+        "language": "Lalland Scots  Doric",
+        "sentence": "Ah can eat gless it disnae hurt us"
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "latitude": "33.3",
+        "longitude": "-45.7",
+        "mango": "TRUE",
+        "maplibre": "TRUE",
+        "maptiler": "TRUE",
+        "direction": "LTR",
+        "language": "Middle English",
+        "sentence": "Ich canne glas eten and hit hirtiþ me nouȝt"
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "latitude": "46.7",
+        "longitude": "-45.7",
+        "mango": "TRUE",
+        "maplibre": "TRUE",
+        "maptiler": "TRUE",
+        "direction": "LTR",
+        "language": "Fijian",
+        "sentence": "Au rawa ni kana iloilo ia au sega ni vakacacani kina"
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "latitude": "60",
+        "longitude": "-45.7",
+        "mango": "TRUE",
+        "maplibre": "TRUE",
+        "maptiler": "TRUE",
+        "direction": "LTR",
+        "language": "Sanskrit standard transcription",
+        "sentence": "kācaṃ śaknomyattum; nopahinasti mām"
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "latitude": "-46.7",
+        "longitude": "-22.9",
+        "mango": "FALSE",
+        "maplibre": "TRUE",
+        "maptiler": "TRUE",
+        "direction": "LTR",
+        "language": "Japanese",
+        "sentence": "私はガラスを食べられます。それは私を傷つけません。"
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "latitude": "-60",
+        "longitude": "-22.9",
+        "mango": "TRUE",
+        "maplibre": "TRUE",
+        "maptiler": "TRUE",
+        "direction": "LTR",
+        "language": "European Portuguese",
+        "sentence": "Posso comer vidro não me faz mal"
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "latitude": "-33.3",
+        "longitude": "-22.9",
+        "mango": "TRUE",
+        "maplibre": "TRUE",
+        "maptiler": "TRUE",
+        "direction": "LTR",
+        "language": "Bosnian Croatian  Montenegrin and Serbian Latin",
+        "sentence": "Ja mogu jesti staklo i to mi ne šteti"
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "latitude": "-20",
+        "longitude": "-22.9",
+        "mango": "TRUE",
+        "maplibre": "TRUE",
+        "maptiler": "TRUE",
+        "direction": "LTR",
+        "language": "Vietnamese",
+        "sentence": "Tôi có thể ăn thủy tinh mà không hại gì"
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "latitude": "-6.7",
+        "longitude": "-22.9",
+        "mango": "TRUE",
+        "maplibre": "TRUE",
+        "maptiler": "TRUE",
+        "direction": "LTR",
+        "language": "Hausa Latin",
+        "sentence": "Inā iya taunar gilāshi kuma in gamā lāfiyā"
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "latitude": "6.7",
+        "longitude": "-22.9",
+        "mango": "TRUE",
+        "maplibre": "TRUE",
+        "maptiler": "TRUE",
+        "direction": "LTR",
+        "language": "Langenfelder Platt",
+        "sentence": "Isch kann Jlaas kimmeln uuhne datt mich datt weh dääd"
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "latitude": "20",
+        "longitude": "-22.9",
+        "mango": "TRUE",
+        "maplibre": "TRUE",
+        "maptiler": "TRUE",
+        "direction": "LTR",
+        "language": "Milanese",
+        "sentence": "Sôn bôn de magnà el véder el me fa minga mal"
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "latitude": "33.3",
+        "longitude": "-22.9",
+        "mango": "TRUE",
+        "maplibre": "TRUE",
+        "maptiler": "TRUE",
+        "direction": "LTR",
+        "language": "Pfalzisch",
+        "sentence": "Isch konn Glass fresse ohne dasses mer ebbes ausmache dud"
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "latitude": "46.7",
+        "longitude": "-22.9",
+        "mango": "TRUE",
+        "maplibre": "TRUE",
+        "maptiler": "TRUE",
+        "direction": "LTR",
+        "language": "Schwaabisch  Swabian",
+        "sentence": "I kå Glas frässa ond des macht mr nix!"
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "latitude": "60",
+        "longitude": "-22.9",
+        "mango": "TRUE",
+        "maplibre": "TRUE",
+        "maptiler": "TRUE",
+        "direction": "LTR",
+        "language": "Twi",
+        "sentence": "Metumi awe tumpan ɜnyɜ me hwee"
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "latitude": "33.3",
+        "longitude": "0",
+        "mango": "FALSE",
+        "maplibre": "TRUE",
+        "maptiler": "TRUE",
+        "direction": "LTR",
+        "language": "Korean",
+        "sentence": "나는 유리를 먹을 수 있어요"
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "latitude": "-60",
+        "longitude": "0",
+        "mango": "TRUE",
+        "maplibre": "TRUE",
+        "maptiler": "TRUE",
+        "direction": "LTR",
+        "language": "Bosnian Montenegrin and Serbian Cyrillic",
+        "sentence": "Ја могу јести стакло и то ми не штети"
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "latitude": "-46.7",
+        "longitude": "0",
+        "mango": "TRUE",
+        "maplibre": "TRUE",
+        "maptiler": "TRUE",
+        "direction": "LTR",
+        "language": "Erzian",
+        "sentence": "Мон ярсан суликадо ды зыян эйстэнзэ а ули"
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "latitude": "-33.3",
+        "longitude": "0",
+        "mango": "TRUE",
+        "maplibre": "TRUE",
+        "maptiler": "TRUE",
+        "direction": "LTR",
+        "language": "Hawaiian",
+        "sentence": "Hiki iaʻu ke ʻai i ke aniani; ʻaʻole nō lā au e ʻeha"
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "latitude": "-20",
+        "longitude": "0",
+        "mango": "TRUE",
+        "maplibre": "TRUE",
+        "maptiler": "TRUE",
+        "direction": "LTR",
+        "language": "Mongolian Cyrillic",
+        "sentence": "Би шил идэй чадна надад хортой биш"
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "latitude": "-6.7",
+        "longitude": "0",
+        "mango": "TRUE",
+        "maplibre": "TRUE",
+        "maptiler": "TRUE",
+        "direction": "LTR",
+        "language": "Picard",
+        "sentence": "Ch'peux mingi du verre cha m'foé mie n'ma"
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "latitude": "6.7",
+        "longitude": "0",
+        "mango": "TRUE",
+        "maplibre": "TRUE",
+        "maptiler": "TRUE",
+        "direction": "LTR",
+        "language": "Schwyzerdutsch Luzern",
+        "sentence": "Ech cha Glâs ässe das schadt mer ned"
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "latitude": "20",
+        "longitude": "0",
+        "mango": "TRUE",
+        "maplibre": "TRUE",
+        "maptiler": "TRUE",
+        "direction": "LTR",
+        "language": "Ukrainian",
+        "sentence": "Я можу їсти скло і воно мені не зашкодить"
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "latitude": "46.7",
+        "longitude": "0",
+        "mango": "TRUE",
+        "maplibre": "TRUE",
+        "maptiler": "TRUE",
+        "direction": "LTR",
+        "language": "KiSwahili",
+        "sentence": "Naweza kula bilauri na sikunyui"
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "latitude": "60",
+        "longitude": "0",
+        "mango": "TRUE",
+        "maplibre": "TRUE",
+        "maptiler": "TRUE",
+        "direction": "LTR",
+        "language": "Brazilian Portuguese",
+        "sentence": "Posso comer vidro não me machuca"
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "latitude": "-60",
+        "longitude": "22.9",
+        "mango": "TRUE",
+        "maplibre": "TRUE",
+        "maptiler": "TRUE",
+        "direction": "LTR",
+        "language": "Esperanto",
+        "sentence": "Mi povas manĝi vitron ĝi ne damaĝas min"
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "latitude": "-46.7",
+        "longitude": "22.9",
+        "mango": "TRUE",
+        "maplibre": "TRUE",
+        "maptiler": "TRUE",
+        "direction": "LTR",
+        "language": "Latin",
+        "sentence": "Vitrum edere possum; mihi non nocet"
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "latitude": "-33.3",
+        "longitude": "22.9",
+        "mango": "TRUE",
+        "maplibre": "TRUE",
+        "maptiler": "TRUE",
+        "direction": "LTR",
+        "language": "Napoletano",
+        "sentence": "M' pozz magna' o'vetr e nun m' fa mal"
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "latitude": "-20",
+        "longitude": "22.9",
+        "mango": "TRUE",
+        "maplibre": "TRUE",
+        "maptiler": "TRUE",
+        "direction": "LTR",
+        "language": "Polska  Polish",
+        "sentence": "Mogę jeść szkło i mi nie szkodzi"
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "latitude": "-6.7",
+        "longitude": "22.9",
+        "mango": "TRUE",
+        "maplibre": "TRUE",
+        "maptiler": "TRUE",
+        "direction": "LTR",
+        "language": "Schwyzerdutsch Zurich",
+        "sentence": "Ich chan Glaas ässe das schadt mir nöd"
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "latitude": "6.7",
+        "longitude": "22.9",
+        "mango": "TRUE",
+        "maplibre": "TRUE",
+        "maptiler": "TRUE",
+        "direction": "LTR",
+        "language": "Ulster Gaelic",
+        "sentence": "Ithimsa gloine agus ní miste damh é"
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "latitude": "20",
+        "longitude": "22.9",
+        "mango": "TRUE",
+        "maplibre": "TRUE",
+        "maptiler": "TRUE",
+        "direction": "LTR",
+        "language": "Afrikaans",
+        "sentence": "Ek kan glas eet maar dit doen my nie skade nie"
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "latitude": "33.3",
+        "longitude": "22.9",
+        "mango": "TRUE",
+        "maplibre": "TRUE",
+        "maptiler": "TRUE",
+        "direction": "LTR",
+        "language": "Bulgarian",
+        "sentence": "Мога да ям стъкло то не ми вреди"
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "latitude": "46.7",
+        "longitude": "22.9",
+        "mango": "TRUE",
+        "maplibre": "TRUE",
+        "maptiler": "TRUE",
+        "direction": "LTR",
+        "language": "Latvian",
+        "sentence": "Es varu ēst stiklu tas man nekaitē"
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "latitude": "60",
+        "longitude": "22.9",
+        "mango": "TRUE",
+        "maplibre": "TRUE",
+        "maptiler": "TRUE",
+        "direction": "LTR",
+        "language": "Navajo",
+        "sentence": "Tsésǫʼ yishą́ągo bííníshghah dóó doo shił neezgai da"
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "latitude": "-60",
+        "longitude": "45.7",
+        "mango": "TRUE",
+        "maplibre": "TRUE",
+        "maptiler": "TRUE",
+        "direction": "LTR",
+        "language": "Provencal  Occitan",
+        "sentence": "Pòdi manjar de veire me nafrariá pas"
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "latitude": "-46.7",
+        "longitude": "45.7",
+        "mango": "TRUE",
+        "maplibre": "TRUE",
+        "maptiler": "TRUE",
+        "direction": "LTR",
+        "language": "Scottish Gaelic",
+        "sentence": "S urrainn dhomh gloinne ithe; cha ghoirtich i mi"
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "latitude": "-33.3",
+        "longitude": "45.7",
+        "mango": "TRUE",
+        "maplibre": "TRUE",
+        "maptiler": "TRUE",
+        "direction": "LTR",
+        "language": "Venetian",
+        "sentence": "Mi posso magnare el vetro no'l me fa mae"
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "latitude": "-20",
+        "longitude": "45.7",
+        "mango": "TRUE",
+        "maplibre": "TRUE",
+        "maptiler": "TRUE",
+        "direction": "LTR",
+        "language": "Albanian",
+        "sentence": "Unë mund të ha qelq dhe nuk më gjen gjë"
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "latitude": "-6.7",
+        "longitude": "45.7",
+        "mango": "TRUE",
+        "maplibre": "TRUE",
+        "maptiler": "TRUE",
+        "direction": "LTR",
+        "language": "Caboverdiano Cape Verde",
+        "sentence": "M' podê cumê vidru ca ta maguâm'"
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "latitude": "6.7",
+        "longitude": "45.7",
+        "mango": "TRUE",
+        "maplibre": "TRUE",
+        "maptiler": "TRUE",
+        "direction": "LTR",
+        "language": "Hungarian",
+        "sentence": "Meg tudom enni az üveget nem lesz tőle bajom"
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "latitude": "20",
+        "longitude": "45.7",
+        "mango": "TRUE",
+        "maplibre": "TRUE",
+        "maptiler": "TRUE",
+        "direction": "LTR",
+        "language": "Lausitzer Mundart Lusatian",
+        "sentence": "Ich koann Gloos assn und doas dudd merr ni wii"
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "latitude": "33.3",
+        "longitude": "45.7",
+        "mango": "TRUE",
+        "maplibre": "TRUE",
+        "maptiler": "TRUE",
+        "direction": "LTR",
+        "language": "Nederlands  Dutch",
+        "sentence": "Ik kan glas eten het doet mĳ geen kwaad"
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "latitude": "46.7",
+        "longitude": "45.7",
+        "mango": "TRUE",
+        "maplibre": "TRUE",
+        "maptiler": "TRUE",
+        "direction": "LTR",
+        "language": "Quebecois",
+        "sentence": "J'peux manger d'la vitre ça m'fa pas mal"
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "latitude": "60",
+        "longitude": "45.7",
+        "mango": "TRUE",
+        "maplibre": "TRUE",
+        "maptiler": "TRUE",
+        "direction": "LTR",
+        "language": "Sicilian",
+        "sentence": "Puotsu mangiari u vitru nun mi fa mali"
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "latitude": "-60",
+        "longitude": "68.6",
+        "mango": "TRUE",
+        "maplibre": "TRUE",
+        "maptiler": "TRUE",
+        "direction": "LTR",
+        "language": "Allemannisch",
+        "sentence": "I kaun Gloos essen es tuat ma ned weh"
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "latitude": "-46.7",
+        "longitude": "68.6",
+        "mango": "TRUE",
+        "maplibre": "TRUE",
+        "maptiler": "TRUE",
+        "direction": "LTR",
+        "language": "Catalan  Catala",
+        "sentence": "Puc menjar vidre que no em fa mal"
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "latitude": "-33.3",
+        "longitude": "68.6",
+        "mango": "TRUE",
+        "maplibre": "TRUE",
+        "maptiler": "TRUE",
+        "direction": "LTR",
+        "language": "Letzebuergescht  Luxemburgish",
+        "sentence": "Ech kan Glas iessen daat deet mir nët wei"
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "latitude": "-20",
+        "longitude": "68.6",
+        "mango": "TRUE",
+        "maplibre": "TRUE",
+        "maptiler": "TRUE",
+        "direction": "LTR",
+        "language": "Nordicg",
+        "sentence": "Ljœr ye caudran créneþ ý jor cẃran"
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "latitude": "-6.7",
+        "longitude": "68.6",
+        "mango": "TRUE",
+        "maplibre": "TRUE",
+        "maptiler": "TRUE",
+        "direction": "LTR",
+        "language": "Roman",
+        "sentence": "Me posso magna' er vetro e nun me fa male"
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "latitude": "6.7",
+        "longitude": "68.6",
+        "mango": "TRUE",
+        "maplibre": "TRUE",
+        "maptiler": "TRUE",
+        "direction": "LTR",
+        "language": "Slovak",
+        "sentence": "Môžem jesť sklo"
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "latitude": "20",
+        "longitude": "68.6",
+        "mango": "TRUE",
+        "maplibre": "TRUE",
+        "maptiler": "TRUE",
+        "direction": "LTR",
+        "language": "Walloon",
+        "sentence": "Dji pou magnî do vêre çoula m' freut nén må f"
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "latitude": "33.3",
+        "longitude": "68.6",
+        "mango": "TRUE",
+        "maplibre": "TRUE",
+        "maptiler": "TRUE",
+        "direction": "LTR",
+        "language": "AngloSaxon Latin",
+        "sentence": "Ic mæg glæs eotan ond hit ne hearmiað me"
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "latitude": "46.7",
+        "longitude": "68.6",
+        "mango": "TRUE",
+        "maplibre": "TRUE",
+        "maptiler": "TRUE",
+        "direction": "LTR",
+        "language": "Chamorro",
+        "sentence": "Siña yo' chumocho krestat ti ha na'lalamen yo'"
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "latitude": "60",
+        "longitude": "68.6",
+        "mango": "TRUE",
+        "maplibre": "TRUE",
+        "maptiler": "TRUE",
+        "direction": "LTR",
+        "language": "Irish",
+        "sentence": "Is féidir liom gloinne a ithe"
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "latitude": "-60",
+        "longitude": "91.4",
+        "mango": "TRUE",
+        "maplibre": "TRUE",
+        "maptiler": "TRUE",
+        "direction": "LTR",
+        "language": "Lingala",
+        "sentence": "Nakokí kolíya biténi bya milungi ekosála ngáí mabé tɛ́"
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "latitude": "-46.7",
+        "longitude": "91.4",
+        "mango": "TRUE",
+        "maplibre": "TRUE",
+        "maptiler": "TRUE",
+        "direction": "LTR",
+        "language": "Northern Karelian",
+        "sentence": "Mie voin syvvä lasie ta minla ei ole kipie"
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "latitude": "-33.3",
+        "longitude": "91.4",
+        "mango": "TRUE",
+        "maplibre": "TRUE",
+        "maptiler": "TRUE",
+        "direction": "LTR",
+        "language": "Romanian",
+        "sentence": "Pot să mănânc sticlă și ea nu mă rănește"
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "latitude": "-20",
+        "longitude": "91.4",
+        "mango": "TRUE",
+        "maplibre": "TRUE",
+        "maptiler": "TRUE",
+        "direction": "LTR",
+        "language": "Slovenian",
+        "sentence": "Lahko jem steklo ne da bi mi škodovalo"
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "latitude": "-6.7",
+        "longitude": "91.4",
+        "mango": "TRUE",
+        "maplibre": "TRUE",
+        "maptiler": "TRUE",
+        "direction": "RTL",
+        "language": "Yiddish",
+        "sentence": "איך קען עסן גלאָז און עס טוט מיר נישט װײ"
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "latitude": "6.7",
+        "longitude": "91.4",
+        "mango": "TRUE",
+        "maplibre": "TRUE",
+        "maptiler": "TRUE",
+        "direction": "LTR",
+        "language": "Welsh",
+        "sentence": "Dw i'n gallu bwyta gwydr 'dyw e ddim yn gwneud dolur i mi"
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "latitude": "20",
+        "longitude": "91.4",
+        "mango": "TRUE",
+        "maplibre": "TRUE",
+        "maptiler": "TRUE",
+        "direction": "LTR",
+        "language": "Chinook Jargon",
+        "sentence": "Naika məkmək kakshət labutay pi weyk ukuk munksik nay"
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "latitude": "33.3",
+        "longitude": "91.4",
+        "mango": "TRUE",
+        "maplibre": "TRUE",
+        "maptiler": "TRUE",
+        "direction": "LTR",
+        "language": "Foroyskt  Faroese",
+        "sentence": "Eg kann eta glas skaðaleysur"
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "latitude": "46.7",
+        "longitude": "91.4",
+        "mango": "TRUE",
+        "maplibre": "TRUE",
+        "maptiler": "TRUE",
+        "direction": "LTR",
+        "language": "Armenian",
+        "sentence": "Կրնամ ապակի ուտել և ինծի անհանգիստ չըներ"
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "latitude": "60",
+        "longitude": "91.4",
+        "mango": "TRUE",
+        "maplibre": "TRUE",
+        "maptiler": "TRUE",
+        "direction": "LTR",
+        "language": "Lithuanian",
+        "sentence": "Aš galiu valgyti stiklą ir jis manęs nežeidžia"
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "latitude": "-60",
+        "longitude": "114.3",
+        "mango": "TRUE",
+        "maplibre": "TRUE",
+        "maptiler": "TRUE",
+        "direction": "LTR",
+        "language": "Odenwälderisch",
+        "sentence": "Iech konn glaasch voschbachteln ohne dass es mir ebbs daun doun dud"
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "latitude": "-46.7",
+        "longitude": "114.3",
+        "mango": "TRUE",
+        "maplibre": "TRUE",
+        "maptiler": "TRUE",
+        "direction": "LTR",
+        "language": "Romansch Grischun",
+        "sentence": "Jau sai mangiar vaider senza che quai fa donn a mai"
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "latitude": "-33.3",
+        "longitude": "114.3",
+        "mango": "TRUE",
+        "maplibre": "TRUE",
+        "maptiler": "TRUE",
+        "direction": "LTR",
+        "language": "Sonderjysk",
+        "sentence": "Æ ka æe glass uhen at det go mæ naue"
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "latitude": "-20",
+        "longitude": "114.3",
+        "mango": "TRUE",
+        "maplibre": "TRUE",
+        "maptiler": "TRUE",
+        "direction": "LTR",
+        "language": "Estonian",
+        "sentence": "Ma võin klaasi süüa see ei tee mulle midagi"
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "latitude": "-6.7",
+        "longitude": "114.3",
+        "mango": "TRUE",
+        "maplibre": "TRUE",
+        "maptiler": "TRUE",
+        "direction": "LTR",
+        "language": "Classical Greek",
+        "sentence": "ὕαλον ϕαγεῖν δύναμαι· τοῦτο οὔ με βλάπτει"
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "latitude": "6.7",
+        "longitude": "114.3",
+        "mango": "TRUE",
+        "maplibre": "TRUE",
+        "maptiler": "TRUE",
+        "direction": "LTR",
+        "language": "French",
+        "sentence": "Je peux manger du verre ça ne me fait pas mal"
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "latitude": "20",
+        "longitude": "114.3",
+        "mango": "TRUE",
+        "maplibre": "TRUE",
+        "maptiler": "TRUE",
+        "direction": "LTR",
+        "language": "Islenska  Icelandic",
+        "sentence": "Ég get etið gler án þess að meiða mig"
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "latitude": "33.3",
+        "longitude": "114.3",
+        "mango": "TRUE",
+        "maplibre": "TRUE",
+        "maptiler": "TRUE",
+        "direction": "LTR",
+        "language": "Lojban",
+        "sentence": "mi kakne le nu citka le blaci"
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "latitude": "46.7",
+        "longitude": "114.3",
+        "mango": "TRUE",
+        "maplibre": "TRUE",
+        "maptiler": "TRUE",
+        "direction": "LTR",
+        "language": "Old French",
+        "sentence": "Je puis mangier del voirre"
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "latitude": "60",
+        "longitude": "114.3",
+        "mango": "TRUE",
+        "maplibre": "TRUE",
+        "maptiler": "TRUE",
+        "direction": "LTR",
+        "language": "Ruhrdeutsch",
+        "sentence": "Ich kann Glas verkasematuckeln ohne dattet mich wat jucken tut"
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "latitude": "-60",
+        "longitude": "137.1",
+        "mango": "TRUE",
+        "maplibre": "TRUE",
+        "maptiler": "TRUE",
+        "direction": "LTR",
+        "language": "Southern Karelian",
+        "sentence": "Minä voin syvvä st'oklua dai minule ei ole kibie"
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "latitude": "-46.7",
+        "longitude": "137.1",
+        "mango": "TRUE",
+        "maplibre": "TRUE",
+        "maptiler": "TRUE",
+        "direction": "LTR",
+        "language": "Euro",
+        "sentence": "€"
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "latitude": "-33.3",
+        "longitude": "137.1",
+        "mango": "TRUE",
+        "maplibre": "TRUE",
+        "maptiler": "TRUE",
+        "direction": "LTR",
+        "language": "Aragones",
+        "sentence": "Puedo minchar beire no me'n fa mal"
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "latitude": "-20",
+        "longitude": "137.1",
+        "mango": "TRUE",
+        "maplibre": "TRUE",
+        "maptiler": "TRUE",
+        "direction": "LTR",
+        "language": "Cornish",
+        "sentence": "Mý a yl dybry gwéder hag éf ny wra ow ankenya"
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "latitude": "-6.7",
+        "longitude": "137.1",
+        "mango": "TRUE",
+        "maplibre": "TRUE",
+        "maptiler": "TRUE",
+        "direction": "LTR",
+        "language": "Frysk  Frisian",
+        "sentence": "Ik kin glês ite it docht me net sear"
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "latitude": "6.7",
+        "longitude": "137.1",
+        "mango": "TRUE",
+        "maplibre": "TRUE",
+        "maptiler": "TRUE",
+        "direction": "LTR",
+        "language": "Italian",
+        "sentence": "Posso mangiare il vetro e non mi fa male"
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "latitude": "20",
+        "longitude": "137.1",
+        "mango": "TRUE",
+        "maplibre": "TRUE",
+        "maptiler": "TRUE",
+        "direction": "LTR",
+        "language": "Macedonian",
+        "sentence": "Можам да јадам стакло а не ме штета"
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "latitude": "33.3",
+        "longitude": "137.1",
+        "mango": "TRUE",
+        "maplibre": "TRUE",
+        "maptiler": "TRUE",
+        "direction": "LTR",
+        "language": "Old Irish Latin",
+        "sentence": "Con·iccim ithi nglano"
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "latitude": "46.7",
+        "longitude": "137.1",
+        "mango": "TRUE",
+        "maplibre": "TRUE",
+        "maptiler": "TRUE",
+        "direction": "LTR",
+        "language": "Russian",
+        "sentence": "Я могу есть стекло оно мне не вредит"
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "latitude": "60",
+        "longitude": "137.1",
+        "mango": "TRUE",
+        "maplibre": "TRUE",
+        "maptiler": "TRUE",
+        "direction": "LTR",
+        "language": "Spanish",
+        "sentence": "Puedo comer vidrio no me hace daño"
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "latitude": "20",
+        "longitude": "160",
+        "mango": "TRUE",
+        "maplibre": "TRUE",
+        "maptiler": "TRUE",
+        "direction": "LTR",
+        "language": "Suomi  Finnish",
+        "sentence": "Voin syödä lasia se ei vahingoita minua. a, b, c, d, e, f, g, h, i, j, k, l, m, n, o, p, q, r, s, t, u, v, w, x, y, z, å, ä, ja, ö, š, ž"
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "latitude": "-60",
+        "longitude": "160",
+        "mango": "TRUE",
+        "maplibre": "TRUE",
+        "maptiler": "TRUE",
+        "direction": "LTR",
+        "language": "Basque",
+        "sentence": "Kristala jan dezaket ez dit minik ematen"
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "latitude": "-46.7",
+        "longitude": "160",
+        "mango": "TRUE",
+        "maplibre": "TRUE",
+        "maptiler": "TRUE",
+        "direction": "LTR",
+        "language": "Czech",
+        "sentence": "Mohu jíst sklo neublíží mi"
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "latitude": "-33.3",
+        "longitude": "160",
+        "mango": "TRUE",
+        "maplibre": "TRUE",
+        "maptiler": "TRUE",
+        "direction": "LTR",
+        "language": "Galician",
+        "sentence": "Eu podo xantar cristais e non cortarme"
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "latitude": "-20",
+        "longitude": "160",
+        "mango": "TRUE",
+        "maplibre": "TRUE",
+        "maptiler": "TRUE",
+        "direction": "LTR",
+        "language": "Javanese",
+        "sentence": "Aku isa mangan beling tanpa lara"
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "latitude": "-6.7",
+        "longitude": "160",
+        "mango": "TRUE",
+        "maplibre": "TRUE",
+        "maptiler": "TRUE",
+        "direction": "LTR",
+        "language": "Malay",
+        "sentence": "Saya boleh makan kaca dan ia tidak mencederakan saya"
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "latitude": "6.7",
+        "longitude": "160",
+        "mango": "TRUE",
+        "maplibre": "TRUE",
+        "maptiler": "TRUE",
+        "direction": "LTR",
+        "language": "Sachsisch  Saxon",
+        "sentence": "sch kann Glos essn ohne dass'sch mer wehtue"
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "latitude": "33.3",
+        "longitude": "160",
+        "mango": "TRUE",
+        "maplibre": "TRUE",
+        "maptiler": "TRUE",
+        "direction": "LTR",
+        "language": "Svenska  Swedish",
+        "sentence": "Jag kan äta glas utan att skada mig"
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "latitude": "46.7",
+        "longitude": "160",
+        "mango": "TRUE",
+        "maplibre": "TRUE",
+        "maptiler": "TRUE",
+        "direction": "LTR",
+        "language": "English IPA",
+        "sentence": "[aɪ kæn iːt glɑːs ænd ɪt dɐz nɒt hɜːt miː] (Received Pronunciation)"
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "latitude": "60",
+        "longitude": "160",
+        "mango": "FALSE",
+        "maplibre": "FALSE",
+        "maptiler": "PARTIAL",
+        "direction": "LTR",
+        "language": "Khmer",
+        "sentence": "ខ្ញុំអាចញុំកញ្ចក់បាន ដោយគ្មានបញ្ហារ"
+      },
+      "geometry": null
+    }
+  ]
+}

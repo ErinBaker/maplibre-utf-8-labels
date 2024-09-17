@@ -1,70 +1,66 @@
-# Getting Started with Create React App
+# MapLibre GL JS React Component
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This project demonstrates a React component that uses MapLibre GL JS to display an interactive map with custom markers and labels.
 
-## Available Scripts
+## Setup
 
-In the project directory, you can run:
+### Prerequisites
 
-### `npm start`
+- Node.js (version 12 or later)
+- npm (usually comes with Node.js)
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+### Installation
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+1. Clone this repository:
+   ```
+   git clone https://github.com/your-username/your-repo-name.git
+   cd your-repo-name
+   ```
 
-### `npm test`
+2. Install the dependencies:
+   ```
+   npm install
+   ```
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+### Environment Variables
 
-### `npm run build`
+This project uses MapTiler for map styles, which requires an API key. To keep this key secure, we use environment variables.
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+1. Create a `.env` file in the root directory of the project:
+   ```
+   touch .env
+   ```
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+2. Open the `.env` file and add your MapTiler API key:
+   ```
+   REACT_APP_MAPTILER_API_KEY=your_maptiler_api_key_here
+   ```
+   Replace `your_maptiler_api_key_here` with your actual MapTiler API key.
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+3. The `.env` file is included in `.gitignore` to prevent accidentally committing your API key to the repository.
 
-### `npm run eject`
+Note: If you don't have a MapTiler API key, you can sign up for a free account at [MapTiler Cloud](https://cloud.maptiler.com/maps/).
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+### Running the Application
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+After setting up your environment variable, you can start the development server:
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
+```
+npm start
+```
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
+The application should now be running at `http://localhost:3000`.
 
-## Learn More
+## How It Works
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+The main component, `MapComponent`, uses the MapLibre GL JS library to render an interactive map. It loads GeoJSON data from a local file and displays markers and labels based on this data.
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+The MapTiler API key is accessed in the component using `process.env.REACT_APP_MAPTILER_API_KEY`. This allows us to use the API key without exposing it in our source code.
 
-### Code Splitting
+## Contributing
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
+If you'd like to contribute to this project, please fork the repository and create a pull request. Be sure not to commit any sensitive information like API keys.
 
-### Analyzing the Bundle Size
+## License
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
