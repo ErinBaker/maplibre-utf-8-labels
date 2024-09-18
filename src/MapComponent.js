@@ -32,8 +32,10 @@ const MapComponent = () => {
     map.current = new maplibregl.Map({
       container: mapContainer.current,
       style: `https://api.maptiler.com/maps/aquarelle/style.json?key=${process.env.REACT_APP_MAPTILER_API_KEY}`,
-      center: [0, 0],
-      zoom: 0,
+      zoom: 5,
+      center: [11.39085, 47.27574],
+      maxPitch: 85,
+      antialias: true,
     });
 
     map.current.addControl(new maplibregl.NavigationControl());
