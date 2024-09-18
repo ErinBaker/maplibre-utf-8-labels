@@ -1,4 +1,4 @@
-import React, { useEffect, useRef } from "react";
+import React, { useEffect, useRef, useState } from "react";
 import maplibregl from "maplibre-gl";
 import "maplibre-gl/dist/maplibre-gl.css";
 import rawGeoJSON from "./data.json";
@@ -6,6 +6,7 @@ import rawGeoJSON from "./data.json";
 const MapComponent = () => {
   const mapContainer = useRef(null);
   const map = useRef(null);
+  const [filter, setFilter] = useState("all");
 
   useEffect(() => {
     if (map.current) return; // Initialize map only once
@@ -48,18 +49,7 @@ const MapComponent = () => {
         type: "symbol",
         source: "sentences",
         layout: {
-          "text-field": [
-            "concat",
-            ["get", "sentence"],
-            "\nLanguage: ",
-            ["get", "language"],
-            "\nMango: ",
-            ["get", "mango"],
-            "\nMaplibre: ",
-            ["get", "maplibre"],
-            "\nMaptiler: ",
-            ["get", "maptiler"],
-          ],
+          "text-field": ["get", "sentence"],
           "text-size": 11,
           "text-offset": [0, 1.5],
           "text-anchor": "top",
@@ -94,9 +84,6 @@ const MapComponent = () => {
         const coordinates = e.features[0].geometry.coordinates.slice();
         const sentence = e.features[0].properties.sentence;
         const language = e.features[0].properties.language;
-        const mango = e.features[0].properties.mango;
-        const maplibre = e.features[0].properties.maplibre;
-        const maptiler = e.features[0].properties.maptiler;
 
         while (Math.abs(e.lngLat.lng - coordinates[0]) > 180) {
           coordinates[0] += e.lngLat.lng > coordinates[0] ? 360 : -360;
@@ -117,19 +104,65 @@ const MapComponent = () => {
       map.current.on("mouseleave", "sentence-markers", () => {
         map.current.getCanvas().style.cursor = "";
       });
+
+      // Apply initial filter
+      applyFilter(filter);
     });
 
     maplibregl.setRTLTextPlugin(
       "https://unpkg.com/@mapbox/mapbox-gl-rtl-text@0.2.3/mapbox-gl-rtl-text.min.js",
       true,
     );
-  }, []);
+  }, [filter]); // Add filter to the dependency array
+
+  useEffect(() => {
+    if (map.current && map.current.isStyleLoaded()) {
+      applyFilter(filter);
+    }
+  }, [filter]);
+
+  const applyFilter = (currentFilter) => {
+    if (!map.current || !map.current.isStyleLoaded()) return;
+
+    let filterExpression;
+
+    switch (currentFilter) {
+      case "mango":
+        filterExpression = ["==", ["get", "mango"], "TRUE"];
+        break;
+      case "maplibre":
+        filterExpression = ["==", ["get", "maplibre"], "TRUE"];
+        break;
+      case "maptiler":
+        filterExpression = ["==", ["get", "maptiler"], "TRUE"];
+        break;
+      default:
+        filterExpression = ["!=", ["get", "mango"], "fakevalue"]; // This will show all features
+    }
+
+    map.current.setFilter("sentence-markers", filterExpression);
+    map.current.setFilter("sentence-labels", filterExpression);
+  };
 
   return (
-    <div
-      ref={mapContainer}
-      style={{ position: "absolute", top: 0, bottom: 0, width: "100%" }}
-    />
+    <div>
+      <div
+        ref={mapContainer}
+        style={{ position: "absolute", top: 0, bottom: 0, width: "100%" }}
+      />
+      <div style={{ position: "absolute", top: 10, left: 10, zIndex: 1 }}>
+        <select
+          value={filter}
+          onChange={(e) => setFilter(e.target.value)}
+          style={{ padding: "5px" }}
+        >
+          <option value="all">Show All</option>
+          <option value="mango">Mango</option>
+          <option value="maplibre">Maplibre</option>
+          <option value="maptiler">Maptiler</option>
+        </select>
+      </div>
+    </div>
   );
 };
 
