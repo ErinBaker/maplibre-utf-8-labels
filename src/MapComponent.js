@@ -32,7 +32,7 @@ const MapComponent = () => {
       container: mapContainer.current,
       style: `https://api.maptiler.com/maps/aquarelle/style.json?key=${process.env.REACT_APP_MAPTILER_API_KEY}`,
       center: [0, 0],
-      zoom: 2,
+      zoom: 0,
     });
 
     map.current.addControl(new maplibregl.NavigationControl());
@@ -65,12 +65,12 @@ const MapComponent = () => {
           "text-anchor": "top",
           "text-allow-overlap": true,
           "text-ignore-placement": false,
-          "text-max-width": 10,
+          "text-max-width": 18,
           "text-keep-upright": false,
         },
         paint: {
-          "text-color": "#000000",
-          "text-halo-color": "#FFFFFF",
+          "text-color": "#252323",
+          "text-halo-color": "#EAFDF8",
           "text-halo-width": 3,
         },
       });
@@ -80,26 +80,13 @@ const MapComponent = () => {
         type: "circle",
         source: "sentences",
         paint: {
-          "circle-radius": [
-            "interpolate",
-            ["linear"],
-            ["zoom"],
-            0,
-            6,
-            10,
-            8,
-            15,
-            10,
-            20,
-            12,
-          ],
-          "circle-color": "#000000",
-          //"circle-blur": 0.5,
+          "circle-radius": 6,
+          "circle-color": "#2f6690",
           "circle-opacity": 1,
-          "circle-stroke-color": "#FFFFFF",
+          "circle-stroke-color": "#F5F1ED",
           "circle-stroke-width": 5,
           "circle-stroke-opacity": 0.5,
-          "circle-pitch-scale": "viewport",
+          "circle-pitch-scale": "map",
         },
       });
 
@@ -130,21 +117,6 @@ const MapComponent = () => {
       map.current.on("mouseleave", "sentence-markers", () => {
         map.current.getCanvas().style.cursor = "";
       });
-
-      const coordinates = processedGeoJSON.features
-        .filter((feature) => feature.geometry && feature.geometry.coordinates)
-        .map((feature) => feature.geometry.coordinates);
-
-      if (coordinates.length > 0) {
-        const bounds = coordinates.reduce(
-          (bounds, coord) => {
-            return bounds.extend(coord);
-          },
-          new maplibregl.LngLatBounds(coordinates[0], coordinates[0]),
-        );
-
-        map.current.fitBounds(bounds, { padding: 50 });
-      }
     });
 
     maplibregl.setRTLTextPlugin(
