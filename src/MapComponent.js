@@ -39,7 +39,12 @@ const MapComponent = () => {
     });
 
     map.current.addControl(new maplibregl.NavigationControl());
-
+    map.current.addControl(
+      new maplibregl.ScaleControl({
+        maxWidth: 100,
+        unit: "imperial",
+      }),
+    );
     map.current.on("load", () => {
       map.current.addSource("sentences", {
         type: "geojson",
@@ -52,7 +57,7 @@ const MapComponent = () => {
         source: "sentences",
         layout: {
           "text-field": ["get", "sentence"],
-          "text-size": 11,
+          "text-size": 16,
           "text-offset": [0, 1.5],
           "text-anchor": "top",
           "text-allow-overlap": true,
